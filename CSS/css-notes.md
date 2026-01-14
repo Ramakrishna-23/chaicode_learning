@@ -33,3 +33,16 @@ so apply general things directly to the body
  input[type="text"]{
     border-raduis = 8px;
  }
+
+
+
+ <----------FLEX BOX---------------------------->
+ default flex : row 
+ flex-direction : coulmn 
+ 1. Justify Content => controls left to right axis 
+ 2. Align items => controls top to bottom axis 
+ 3. Flex Warp => it adjust the content to the space available to it 
+ 4. Align content => warps around the flex wrap and make it center around it 
+ 5 . Order => change the positions and the order of the elements 
+ 6. flex grow => allocate proportions of the size and elements to its size
+ 7. align self => works on the top to bottom 
