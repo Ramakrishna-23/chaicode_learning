@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.carousel-container {
+    width: 100%;
+    height: 40vh;
+}
+
+.carousel-item img {
+    height: 25vh;
+    width: 100%;
+    object-fit: contain;
+    background-color: #f0f0f0;
+}
+
+
+.class {
+    color:rgb
+}
